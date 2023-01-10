@@ -1,4 +1,9 @@
-### Hi there 👋
+### What's up? I'm 1NJ57C3 (Injustice).  
+  
+I'm a Front-End-leaning Full Stack Software Engineer (bootcamp grad) looking for my first professional opportunity in Web Development.  
+  
+### Languages/Tech:
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width=50px><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width=50px>
 
 <!--
 **1NJ57C3/1NJ57C3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
