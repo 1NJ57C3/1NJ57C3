@@ -10,12 +10,14 @@ I'm a Front-End-leaning Full Stack Software Engineer (bootcamp grad) looking for
 [<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby" width=50px>](https://www.ruby-lang.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width=50px>](https://rubyonrails.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width=50px>](https://sqlite.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width=50px>](https://www.postgresql.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width=50px>](https://www.postgresql.org/)  
+  
+[<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width=50px>](https://mui.com/)
+[<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width=50px>](https://styled-components.com/)  
+  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width=50px>](https://code.visualstudio.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width=50px>](https://git-scm.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width=50px>](https://daringfireball.net/projects/markdown/)
-[<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width=50px>](https://styled-components.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width=50px>](https://mui.com/)
 
 
 <!--
