@@ -2,6 +2,9 @@
   
 I'm a Front-End-leaning Full Stack Software Engineer (bootcamp grad) looking for my first professional opportunity in Web Development.  
   
+### Currently working on:
+[Engine for Text-based RPG game](https://github.com/1NJ57C3/phase-5-capstone-project/tree/development)
+  
 ### Languages, Tech, Etc:  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=50px>](https://html.spec.whatwg.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width=50px>](https://www.w3.org/TR/CSS/#css)
