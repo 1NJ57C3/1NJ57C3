@@ -3,12 +3,17 @@
 I'm a Front-End-leaning Full Stack Software Engineer (bootcamp grad) looking for my first professional opportunity in Web Development.  
   
 ### Currently working on:  
-- Portfolio Site  
-- [Engine for Text-based RPG game](https://github.com/1NJ57C3/phase-5-capstone-project/tree/development)  
+- Job Applications  
+- Personal/Portfolio Site  
 - Random proof-of-concept ideas that don't result in full projects/apps  
 - This README  
   
-### Languages, Tech, Etc:  
+### Currently learning:  
+- TypeScript  
+- Python  
+- Django  
+  
+### Technologies Used:  
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width=50px>](https://html.spec.whatwg.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width=50px>](https://www.w3.org/TR/CSS/#css)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width=50px>](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
