@@ -1,6 +1,6 @@
 ### What's up? I'm 1NJ57C3 (Injustice).  
   
-I'm a Front-End-leaning Full Stack Software Engineer looking for my opportunities in Web Development.  
+I'm a Front-End-leaning Full Stack Software Engineer looking for opportunities in Web Development.  
   
 ### Currently working on:  
 - Job Applications  
