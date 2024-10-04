@@ -1,14 +1,14 @@
 ### What's up? I'm 1NJ57C3 (Injustice).  
   
-I'm a Front-End-leaning Full Stack Software Engineer (bootcamp grad) looking for my first professional opportunity in Web Development.  
+I'm a Front-End-leaning Full Stack Software Engineer looking for my opportunities in Web Development.  
   
 ### Currently working on:  
 - Job Applications  
 - Personal/Portfolio Site  
-- Random proof-of-concept ideas that don't result in full projects/apps  
+- Random proof-of-concept ideas that often include smaller one-off features that I don't publicize  
 - This README  
   
-### Currently learning:  
+### Currently experimenting with:  
 - TypeScript  
 - Python  
 - Django  
